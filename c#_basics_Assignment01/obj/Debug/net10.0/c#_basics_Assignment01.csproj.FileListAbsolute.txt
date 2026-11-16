@@ -1,0 +1,15 @@
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\bin\Debug\net10.0\c#_basics_Assignment01.exe
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\bin\Debug\net10.0\c#_basics_Assignment01.deps.json
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\bin\Debug\net10.0\c#_basics_Assignment01.runtimeconfig.json
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\bin\Debug\net10.0\c#_basics_Assignment01.dll
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\bin\Debug\net10.0\c#_basics_Assignment01.pdb
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.AssemblyInfoInputs.cache
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.AssemblyInfo.cs
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.dll
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\refint\c#_basics_Assignment01.dll
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.pdb
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basics_Assignment01.genruntimeconfig.cache
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\ref\c#_basics_Assignment01.dll
+C:\WorkSpace\Route\Cycle50\C#\c#_basics_Assignment01\c#_basics_Assignment01\obj\Debug\net10.0\c#_basic.B3333C83.Up2Date
